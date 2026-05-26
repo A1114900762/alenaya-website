@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\Huawei\\\\alenaya-website\\\\src\" -Recurse -Directory)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "PowerShell(New-Item *)",
+      "PowerShell(Move-Item *)",
+      "Bash(npx vercel *)"
+    ]
+  }
+}

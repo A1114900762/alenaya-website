@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "language_switch": "عربي",
+    "hotels": "Hotel Services"
+  },
+  "hero": {
+    "title": "AL ENAYA for Access Care",
+    "subtitle": "Towards a Fully Inclusive Society",
+    "description": "We deliver comprehensive universal accessibility solutions for people with disabilities across Saudi Arabia, meeting the highest national and international standards.",
+    "cta_services": "Our Services",
+    "cta_contact": "Contact Us"
+  },
+  "stats": {
+    "hotels_count": "30+",
+    "hotels_label": "Partner Hotels",
+    "types_count": "3",
+    "types_label": "Disability Types",
+    "partners_count": "10+",
+    "partners_label": "Success Partners",
+    "projects_count": "50+",
+    "projects_label": "Completed Projects"
+  },
+  "universal_access": {
+    "title": "What is Universal Access?",
+    "description": "Universal access is a comprehensive system of technical, architectural, and awareness solutions that guarantee the rights of people with disabilities to fully participate in daily life, enjoy equal opportunities, and integrate effectively in society.",
+    "equal_title": "Equal Opportunities",
+    "equal_desc": "Ensuring every individual receives their full rights without discrimination",
+    "integration_title": "Full Integration",
+    "integration_desc": "Preparing environments to be inclusive and accessible for everyone",
+    "quality_title": "Quality of Life",
+    "quality_desc": "Improving the daily living standards for people with disabilities"
+  },
+  "services_preview": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for three disability types",
+    "visual_title": "Visual Disability",
+    "visual_desc": "Complete solutions for the blind and visually impaired: tactile paths, Braille signage, voice guidance systems, and LED-lit corridors.",
+    "motor_title": "Motor Disability",
+    "motor_desc": "Architectural environment upgrades ensuring full wheelchair access and mobility compliance with Saudi universal access codes.",
+    "hearing_title": "Hearing Disability",
+    "hearing_desc": "LED light and vibration alert devices, visual sign-language displays for safety, evacuation, and facility navigation.",
+    "learn_more": "Learn More",
+    "all_services": "All Services"
+  },
+  "partners": {
+    "title": "Our Hotel & Institutional Partners"
+  },
+  "services": {
+    "title": "Our Full Services",
+    "subtitle": "Specialized solutions for every disability type",
+    "visual": {
+      "title": "Visual Disability",
+      "description": "We provide a fully integrated system of solutions to ensure the independence and safety of blind and visually impaired individuals across various environments.",
+      "items": [
+        "White/electronic cane with sensor alert systems",
+        "Talking directional signage boards",
+        "Braille-translated elevator buttons with voice floor announcer",
+        "Electronic voice control panel at entrances with Braille labels",
+        "Transparent Braille stickers for everyday tools and appliances",
+        "Tactile floor guidance paths for white cane users",
+        "Warning dots for navigation (white cane / foot detection)",
+        "Braille booklets and service guides for facilities",
+        "LED-lit corridors and rooms for low-vision individuals",
+        "Liquid level sensor devices for drinking and cooking vessels",
+        "Emergency corridor equipment for evacuating the visually impaired",
+        "Enforcement of disability rights laws with penalties for violators"
+      ]
+    },
+    "motor": {
+      "title": "Motor Disability",
+      "description": "Upgrading architectural environments to meet approved universal access codes, ensuring full freedom of movement for wheelchair users and those with mobility disabilities.",
+      "items": [
+        "Safe ramps (street to sidewalk to upper level) with railings per approved standards",
+        "Universal access code compliance: spaces, heights, accessories, switch and socket heights",
+        "Accessible ablution areas and bathrooms per universal access specs (toilet chair, sink, mixer, accessories)",
+        "Interior signage for disability-specific amenities (prayer room, ablution area, restrooms)",
+        "Emergency exits with evacuation equipment and wheelchair ramps",
+        "Non-slip exterior flooring",
+        "Corridors adapted for individuals with balance impairments"
+      ]
+    },
+    "hearing": {
+      "title": "Hearing Disability",
+      "description": "Advanced alert devices and systems combining vibration and light to ensure the safety and communication of deaf and hard-of-hearing individuals.",
+      "items": [
+        "Pocket or pillow vibrating alert devices",
+        "LED light alert devices",
+        "Hearing-disability smoke detectors",
+        "Dual alert via vibration and light simultaneously",
+        "Cards, signage, and visual sign-language displays showing: facility service guide, evacuation plan, first aid info"
+      ]
+    }
+  },
+  "hotels": {
+    "title": "Hotel & Tourism Resort Services",
+    "subtitle": "Complete solutions per Ministry of Tourism requirements",
+    "description": "We provide specialized services for hotels and tourism resorts to ensure full compliance with universal accessibility standards as required by the Saudi Ministry of Tourism.",
+    "gap_analysis": "Gap analysis and identifying weaknesses",
+    "compliance": "Solutions per approved Ministry of Tourism standards",
+    "supply": "Supply, delivery, installation, and supervision",
+    "hearing_card_title": "Hearing Disability",
+    "hearing_card_desc": "LED and vibration alert devices synced to all hotel sounds and bells; visual sign-language displays (audio + written) showing hotel services and evacuation plan.",
+    "motor_card_title": "Motor Disability",
+    "motor_card_desc": "Accessories, mobility requirements, and call systems for guests with motor disabilities, per universal access codes.",
+    "visual_card_title": "Visual Disability",
+    "visual_card_desc": "Redesign and translate printed materials and signage to Braille (Arabic & English); Braille elevator buttons (national manufacture); voice floor announcement system; tactile paths and warning dots."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Success partners across government, educational, and private sectors",
+    "tab_government": "Government",
+    "tab_universities": "Universities & Institutes",
+    "tab_private": "Private Sector",
+    "status_done": "Completed",
+    "status_negotiation": "Under Negotiation",
+    "status_ongoing": "Ongoing",
+    "hotels_title": "Hotel Partners",
+    "hotels_subtitle": "Proud to partner with leading global hotel chains in Saudi Arabia",
+    "gov": {
+      "jeddah_title": "Jeddah Municipality (Amanah)",
+      "jeddah_desc": "Auditing facilities for universal access compliance.",
+      "hrm_title": "Ministry of Human Resources",
+      "hrm_desc": "Furnishing comprehensive rehabilitation centers, day care centers, and elderly care homes.",
+      "ksu_title": "King Saud University",
+      "ksu_desc": "Supplying hearing assistance devices for female student housing.",
+      "culture_title": "Ministry of Culture",
+      "culture_desc": "Universal access preparation for Ministry of Culture facilities across all three disability types, per national approved standards."
+    },
+    "uni": {
+      "ubt_title": "University of Business & Technology (UBT)",
+      "ubt_desc": "Environment preparation for safe universal access: gap analysis, solutions, quantity schedules, and implementation supervision.",
+      "nour_title": "Al-Noor Institute for Blind Women – Jeddah",
+      "nour_desc": "Full facility preparation for safe and independent access for students.",
+      "kau_title": "King Abdulaziz University",
+      "kau_desc": "Under negotiation."
+    },
+    "private": {
+      "children_title": "Children with Disabilities Association",
+      "children_desc": "Physical therapy equipment supply (national manufacture), community awareness events, MOU for disability employment in accessible environments.",
+      "qaderoon_title": "Qaderoon – Business Disability Network",
+      "qaderoon_desc": "MOU for supporting the employment of people with disabilities in accessible environments.",
+      "fakeeh_title": "Dr. Sulaiman Fakeeh Hospital – Basateen",
+      "fakeeh_desc": "Phase 1 ✅: External/internal facility preparation for motor disability & visual disability with Braille\nPhase 2 ✅: Tactile paths, warning dots & hearing disability equipment",
+      "sharbatly_title": "Sharbatly Fruit (Thallajat Al-Sharbatly)",
+      "sharbatly_desc": "Motor disability gap analysis study and implementation.",
+      "maad_title": "MAAD International Company",
+      "maad_desc": "Gap analysis for Fauget Hotel Towers (Misfala, Makkah) and Thakher Makkah (Novotel Thakher); supply and install all Ministry of Tourism disability requirements (motor, visual, hearing); wireless hearing devices; Braille elevator buttons (national manufacture); informational signage in Braille."
+    }
+  },
+  "about": {
+    "title": "About AL ENAYA",
+    "subtitle": "Pioneers of Universal Access in Saudi Arabia",
+    "mission_title": "Our Mission",
+    "mission_desc": "To empower people with disabilities to live independent and dignified lives by preparing environments and providing specialized technical and architectural solutions.",
+    "vision_title": "Our Vision",
+    "vision_desc": "A barrier-free Saudi society, inclusive for all, aligned with Vision 2030.",
+    "unique_title": "What Makes Us Unique",
+    "unique_items": [
+      "Specialized expertise across all three disability types",
+      "Compliance with national and international standards",
+      "Nationally manufactured and certified solutions",
+      "Dedicated team for training and awareness",
+      "Strategic partnerships with major institutions"
+    ],
+    "workshop_title": "First Specialized Awareness Workshop",
+    "workshop_desc": "AL ENAYA organized the first specialized awareness workshop in universal access, with participation from government entities, engineering offices, the education sector, and the private sector.",
+    "timeline_title": "Our Journey",
+    "milestone_1": "Company founded in Jeddah, Saudi Arabia",
+    "milestone_2": "First major hotel accessibility projects",
+    "milestone_3": "Partnership with Ministry of Human Resources",
+    "milestone_4": "Expansion into the university education sector",
+    "milestone_5": "First Universal Access Awareness Workshop",
+    "milestone_6": "30+ partner hotels & 10+ success partners"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are delighted to hear from you and help prepare your facility for universal access",
+    "form_name": "Full Name",
+    "form_company": "Company / Organization Name",
+    "form_email": "Email Address",
+    "form_phone": "Phone Number",
+    "form_service": "Service Type",
+    "form_service_visual": "Visual Disability",
+    "form_service_motor": "Motor Disability",
+    "form_service_hearing": "Hearing Disability",
+    "form_service_all": "All Types",
+    "form_service_hotels": "Hotel Services",
+    "form_service_consulting": "Consulting",
+    "form_message": "Your Message",
+    "form_submit": "Send Message",
+    "form_sending": "Sending...",
+    "form_success": "Your message has been sent successfully! We will get back to you soon.",
+    "location_title": "Location",
+    "location_value": "Jeddah, Saudi Arabia",
+    "whatsapp_title": "WhatsApp",
+    "email_title": "Email",
+    "phone_title": "Phone"
+  },
+  "footer": {
+    "tagline": "Towards a Fully Inclusive Society",
+    "quick_links_title": "Quick Links",
+    "services_title": "Services",
+    "contact_title": "Contact",
+    "service_visual": "Visual Disability",
+    "service_motor": "Motor Disability",
+    "service_hearing": "Hearing Disability",
+    "service_hotels": "Hotel Services",
+    "location": "Jeddah, Saudi Arabia",
+    "copyright": "© 2025 العناية للوصول الشامل — AL ENAYA for Access Care. All rights reserved."
+  }
+}
